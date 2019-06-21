@@ -10,4 +10,4 @@ start aw_rAnnounce
 
 # Screen ?
 English version : 
-![img](https://forum.fivem.net/uploads/default/optimized/3X/0/c/0cc0cf6a679b53fd4d053c3ba4c0572b3bb2b971_2_690x388.jpeg)
+![img](https://raw.githubusercontent.com/Ariliwin/aw_rAnnounce/master/screen_en.jpeg)
