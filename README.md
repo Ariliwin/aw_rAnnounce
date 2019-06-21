@@ -9,5 +9,6 @@ start aw_rAnnounce
 /annonce message
 
 # Screen ?
-English version : 
+English version
+
 ![img](https://raw.githubusercontent.com/Ariliwin/aw_rAnnounce/master/screen_en.jpeg)
